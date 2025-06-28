@@ -11,8 +11,21 @@
 - Python Programming (via University of Michigan - Dr. Chuck!)
 - Git & GitHub
 - Science + Math + Computer Science core subjects (Indian Curriculum)
-*"Discipline > Motivation.”*
-> *Even on tough days, I show up — for *me* and for the future I'm building.*
+
+---
+
+## 📌 Goals for 2025–2026:
+- 📚 Maintain a 4.0 GPA in Class 11  
+- 🏫 Build a strong portfolio for top US universities  
+- 💡 Complete at least **3 certifications** this year  
+- 🧩 Create and publish real coding projects on GitHub  
+- 🎓 Get one step closer to Ivy League MS dream
+
+---
+
+## 🧠 Mindset I Live By:
+> **“Discipline > Motivation.”**
+> **Even on tough days, I show up — for *me* and for the future I'm building.**
 
 ---
 
@@ -21,6 +34,7 @@ If you're on a journey like mine — aiming high and learning every day — let�
 Feel free to explore my repositories and drop feedback 🙌
 
 ---
+
 
 
 
