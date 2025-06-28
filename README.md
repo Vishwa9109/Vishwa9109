@@ -24,7 +24,7 @@
 ---
 
 ## 🧠 Mindset I Live By:
-> **“Discipline > Motivation.”**
+> *“Discipline > Motivation.”*
 > **Even on tough days, I show up — for *me* and for the future I'm building.**
 
 ---
